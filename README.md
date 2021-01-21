@@ -1,1 +1,1 @@
-made during HTML/CSS/Havascript course by john Hopkins
+made during HTML/CSS/JavaScript course by john Hopkins
